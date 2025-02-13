@@ -126,9 +126,9 @@ document.getElementById('siBtn').addEventListener('click', function(e) {
 
     document.getElementById('messageContainer').style.display = 'block';
 
-    typeWriterEffect('messageContainer', '¡Mi niña bellaaaa! 😍 No sabes cuánto te amo ❤️', 50, function() {
+    typeWriterEffect('messageContainer', '¡Mi niña bellaaaa! 😍 No sabes cuánto te quiero ❤️', 50, function() {
         setTimeout(() => {
-            typeWriterEffect('messageContainer', 'Eres lo mejor que me ha pasado, mi bebe preciosaaaa 💖', 50, function() {
+            typeWriterEffect('messageContainer', 'Eres lo mejor que me ha pasado 💖', 50, function() {
                 setTimeout(() => {
                     typeWriterEffect('messageContainer', '¿Qué te parece si celebramos este momento juntos?', 50, function() {
                         setTimeout(() => {
